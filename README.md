@@ -29,4 +29,4 @@ https://www.facebook.com/CoordinadoraVQuinteroPuchuncavi/
 https://www.instagram.com/accionecosocialquintero/
 
 #### Noticias
-*[En diciembre cerrará termoeléctrica Ventanas 1 de AES Gener en Puchuncaví](https://www.latercera.com/pulso/noticia/en-diciembre-cerrara-termoelectrica-ventanas-1-de-aes-gener-en-puchuncavi/KTKOQZ7SX5ACFGY2LMRCBO73GA/)
+* [En diciembre cerrará termoeléctrica Ventanas 1 de AES Gener en Puchuncaví](https://www.latercera.com/pulso/noticia/en-diciembre-cerrara-termoelectrica-ventanas-1-de-aes-gener-en-puchuncavi/KTKOQZ7SX5ACFGY2LMRCBO73GA/)
