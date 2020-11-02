@@ -10,3 +10,12 @@
 * https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=GNLQuintero
 * https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=loncura
 * https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=ventanas
+
+
+[ANTEPROYECTO NORMA DE EMISIÓN PARA TERMOELÉCTRICAS](https://www.bcn.cl/leychile/navegar?idNorma=1008986)
+Objetivo ambiental: Controlar las emisiones al aire de Material Particulado (MP), Óxidos de Nitrógeno (NOX), Dióxido de Azufre (SO2), Mercurio (Hg), Níquel (Ni) y Vanadio (V), a fin de proteger la salud de las personas y los recursos naturales renovables.
+Promulgación: 07-DIC-2009
+
+Publicación: 15-DIC-2009
+
+Versión: Única - 15-DIC-2009
