@@ -35,3 +35,5 @@ https://www.instagram.com/accionecosocialquintero/
 ### ARTÍCULO | [HABITAR EN UNA ZONA DE SACRIFICIO: ANÁLISIS MULTIESCALAR DE LA COMUNA DE PUCHUNCAVÍ](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-07002019000200006)
 El presente artículo expone los impactos que el desarrollo del Complejo Industrial Ventanas (CIV) ha tenido en la comunidad de Puchuncaví, entendiendo este como origen y causa de la crisis socioambiental de la denominada “Zona de Sacrificio”.
  
+#### Documentos
+* [Drive](https://drive.google.com/drive/folders/1V4lKnHMkS0y0JEZ6Bkgmdkg5oO6SSHmH?usp=sharing)
