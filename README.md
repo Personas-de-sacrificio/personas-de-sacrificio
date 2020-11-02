@@ -7,9 +7,9 @@
 
 
 #### Monitores interactivos calidad del aire de Quintero
-* https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=GNLQuintero
-* https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=loncura
-* https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=ventanas
+* [Quintero Centro] (https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=GNLQuintero)
+* [Quintero Loncura] (https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=loncura)
+* [Complejo industrial] (https://sinca.mma.gob.cl/cgi-bin/SINCA2012/apub.combineweb.cgi?page=pageComb&ins=ventanas)
 
 
 ### RESOLUCION 7550 | [ANTEPROYECTO NORMA DE EMISIÓN PARA TERMOELÉCTRICAS](https://www.bcn.cl/leychile/navegar?idNorma=1008986)
@@ -26,3 +26,5 @@ Versión: Última Versión - 25-FEB-2015
 https://www.instagram.com/nomaszonasdesacrificio/
 https://www.facebook.com/CoordinadoraVQuinteroPuchuncavi/
 https://www.instagram.com/accionecosocialquintero/
+
+
