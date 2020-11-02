@@ -8,7 +8,7 @@ Industrias como ENDESA, COPEC, SHELL, EPOXA, ENAP, GNL, GASMAR, OXIQUIM, CODELCO
 ![Quintero](https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/09/08212343/110-768x512.jpg)
 
 #### Contexto: Cómo llegaron las termoeléctricas 
-* Línea de tiempo sobre la llegada de las termoelécticas 
+* [Línea de tiempo sobre la llegada de las termoelécticas](https://drive.google.com/file/d/19cshT6W-iCOwNVd6HaK9m6CzFRKyUWKd/view?usp=sharing) 
 * Mapa sobre la ubicación de estos complejos en Quintero y Puchuncavi 
 
 #### Efectos medioambientales
