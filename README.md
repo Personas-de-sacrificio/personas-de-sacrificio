@@ -19,3 +19,7 @@ Promulgación: 07-DIC-2009
 Publicación: 15-DIC-2009
 
 Versión: Única - 15-DIC-2009
+
+
+#### Noticias
+* https://www.latercera.com/pulso/noticia/en-diciembre-cerrara-termoelectrica-ventanas-1-de-aes-gener-en-puchuncavi/KTKOQZ7SX5ACFGY2LMRCBO73GA/
