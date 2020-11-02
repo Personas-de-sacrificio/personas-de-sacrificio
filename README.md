@@ -30,3 +30,8 @@ https://www.instagram.com/accionecosocialquintero/
 
 #### Noticias
 * [En diciembre cerrará termoeléctrica Ventanas 1 de AES Gener en Puchuncaví](https://www.latercera.com/pulso/noticia/en-diciembre-cerrara-termoelectrica-ventanas-1-de-aes-gener-en-puchuncavi/KTKOQZ7SX5ACFGY2LMRCBO73GA/)
+
+
+### [HABITAR EN UNA ZONA DE SACRIFICIO: ANÁLISIS MULTIESCALAR DE LA COMUNA DE PUCHUNCAVÍ](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-07002019000200006)
+El presente artículo expone los impactos que el desarrollo del Complejo Industrial Ventanas (CIV) ha tenido en la comunidad de Puchuncaví, entendiendo este como origen y causa de la crisis socioambiental de la denominada “Zona de Sacrificio”.
+ 
