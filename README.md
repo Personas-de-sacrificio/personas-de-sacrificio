@@ -10,7 +10,6 @@ Industrias como ENDESA, COPEC, SHELL, EPOXA, ENAP, GNL, GASMAR, OXIQUIM, CODELCO
 #### Contexto: Cómo llegaron las termoeléctricas 
 * Línea de tiempo sobre la llegada de las termoelécticas 
 * Mapa sobre la ubicación de estos complejos en Quintero y Puchuncavi 
-![mapa](https://pras.mma.gob.cl/wp-content/uploads/2019/11/mapa-qp.png)
 
 #### Efectos medioambientales
 Recursos:
