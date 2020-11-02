@@ -5,7 +5,7 @@
 Industrias como ENDESA, COPEC, SHELL, EPOXA, ENAP, GNL, GASMAR, OXIQUIM, CODELCO, CEMENTOS BIO BIO, PUERTO VENTANAS y AES GENER se encuentran ubicados a pocos kilómetros entre Quintero, Ventanas y La Greda, además de las termoeléctricas Ventana I, Ventana II, Nueva Ventanas y Campiche. Estas indistrias han generado, entre otros, síntomas negativos para la salud de los vecinos de dichos sectores. Las causas en su mayoría, fueron atribuidas a la presencia de compuestos químicos en el aire, por lo que se declaró Alerta Amarilla en la zona. 
 * http://www.chilesustentable.net/2019/07/quintero-y-puchuncavi-la-zona-de-sacrificio-que-no-logra-respirar-tranquila/
 
-![Quintero](https://drive.google.com/file/d/1bIHgNTMGKic5f4jMUX4Ewo6410zE_Utm/view?usp=sharing)
+![Quintero](https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/09/08212343/110-768x512.jpg)
 
 #### Contexto: Cómo llegaron las termoeléctricas 
 * Línea de tiempo sobre la llegada de las termoelécticas 
